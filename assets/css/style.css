@@ -1,0 +1,41 @@
+*{
+    font-family: Roboto, sans-serif;
+    --bs-body-font-weight: 200;
+    --bs-list-group-color: false;
+}
+
+.navbar{
+    background-color: #28a745;
+}
+.card-text{
+    font-size: large;
+}
+.titulo{
+    font-size: medium;
+    color: #707070;
+}
+.card-icon{
+    align-items: center;
+    font-size: medium;
+    color: #707070;
+    height: 64px;
+}
+
+.antes{
+    font-size: small;
+    color: #707070;
+    text-decoration:line-through;
+}
+
+.ahora{
+    color: #28a745;
+    font-weight: 500;
+}
+
+.form{
+    background-color: #28a745;
+}
+.footer{
+    text-align: center;
+    align-items: center;
+}
